@@ -2,10 +2,11 @@
 
 # NỘI DUNG ĐỒ ÁN TRÊN GITHUB  : 
 - Project_Quanlysinhvien - Folder báo cáo đồ án nhóm gồm : 
-  + quanlysinhvien : Project chính + Database .
-  + Webservice :  Nodejs
-  + Webservice_Php(Login_Signin) :  PHP
+  + quanlysinhvien : Project chính.
+  + Webservice :  Nodejs.
+  + Webservice_Php(Login_Signin) :  PHP.
   + Baocao_Doan - File báo cáo đồ án .
+  + qlsinhvien - File cơ sở dữ liệu đồ án .
 - Baocao_Thanhviennhom - Folder báo cáo ( File words + Source code demo ) những gì tìm hiểu trong quá trình học tập của từng thành viên nhóm .
 
 # CÀI ĐẶT SỬ DỤNG PROJECT : 
